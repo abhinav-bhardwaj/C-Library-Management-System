@@ -1,2 +1,2 @@
 # C-LIBRARY-SYSTEM
-  Library system written in c++ 
+  A Library system program written in c++ 
