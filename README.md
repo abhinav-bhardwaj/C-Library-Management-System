@@ -1,2 +1,2 @@
 # C++ Library System Project
-  A Library system program written in c++ as a School Project
+  A Library system program written in C++ as a School Project
